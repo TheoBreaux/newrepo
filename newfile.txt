@@ -1,1 +1,2 @@
-Hello, this is Theo Breaux on his first day with Per Scholas.g
+Hello, this is Theo Breaux on his first day with Per Scholas.
+I am new adding content to my newly created branch, my-new-branch.
